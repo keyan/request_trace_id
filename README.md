@@ -28,3 +28,7 @@ To use it, just plug it into the desired module:
 ```
 plug RequestTraceId
 ```
+
+## Docs
+
+See: https://hexdocs.pm/request_trace_id/RequestTraceId.html

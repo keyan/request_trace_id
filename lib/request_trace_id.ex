@@ -1,7 +1,8 @@
 defmodule RequestTraceId do
   @moduledoc """
-  A plug for creating unique span-ids on each request. Based on:
+  A plug for creating unique span-ids on each request.
 
+  Based on:
   https://github.com/elixir-plug/plug/blob/
   3d48af2b97d58c183a7b8390abc42ac5367b0770/lib/plug/request_id.ex#L1
 
