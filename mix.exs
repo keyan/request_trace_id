@@ -29,7 +29,7 @@ defmodule RequestTraceId.Mixfile do
     [
       {:cowboy, "~> 1.0"},
       {:ex_doc, ">= 0.0.0", only: :dev},
-      {:plug, "~> 1.4.3"},
+      {:plug, "~> 1.4"},
     ]
   end
 
